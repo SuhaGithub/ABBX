@@ -40,4 +40,8 @@ github to local
 asd
 new line2
 Branch üzerinde çalışma
+<<<<<<< HEAD
 master üzerinde çalışma
+=======
+Branch üzerinde çalışmaya devam
+>>>>>>> NewBranchScada
